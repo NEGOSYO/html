@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding:0px;
+}
+
+h1{
+    color:#4d59ff;
+    border:5px #8ae4ff solid;
+
+}
+
+p {
+    font-family: 'Courier New'; 
+    font-size:20px;
+    border:15px rgb(244, 184, 136) solid;
+}
+
+#sectiona {
+    border:15px black solid;
+    padding:15px;
+    margin:10px;
+}
